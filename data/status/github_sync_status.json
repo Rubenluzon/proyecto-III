@@ -1,8 +1,8 @@
 {
   "result": "ok",
   "message": "Push completado correctamente",
-  "last_attempt_at": "2026-04-13T17:24:19.835746Z",
-  "last_success_at": "2026-04-13T17:24:19.835746Z",
+  "last_attempt_at": "2026-04-13T18:24:19.667715Z",
+  "last_success_at": "2026-04-13T18:24:19.667715Z",
   "branch": "main",
   "data_root": "data"
 }
